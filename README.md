@@ -64,7 +64,7 @@ Live Transcribe listens to your audio input and provides real-time transcription
 
 - Transcription consumes OpenAI API credits
 - For best results, use a high-quality microphone
-- To capture system audio, use a virtual audio cable like VB-Cable
+- To capture system audio, use a virtual audio cable like VB-Cable ( I recommend [VB Cable A+B](https://vb-audio.com/Cable/index.htm#DownloadCable) simply set your app in windows to output to that audio interface then go into the audio devices properties and enable listening to the device )
 
 ## 📜 License
 
